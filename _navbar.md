@@ -1,17 +1,14 @@
-<!-- - [<span class="iconfont icon-book3"></span> 首页](https://bytesfly.vercel.app/) -->
-- [<span class="iconfont icon-icon_fabu"></span>学习资源](../docs/README.md)
-- [<span class="iconfont icon-lianjie"></span> 基础知识](../BasicKnowledge/README.md)  
-- [<span class="iconfont icon-wodeguanzhu"></span> 进阶学习](../AdvancedLearning/README.md)
-- [<span class="iconfont icon-xiangkan"></span> 实践案例](../PracticalCases/README.md)
-- [<span class="iconfont icon-csdn"></span> 问题汇总](../ProblemSummary/README.md)
-- [<span class="iconfont icon-github1"></span> 典型场景](../TypicalScenario/README.md)
-  - [营销](../TypicalScenario/README.md#营销)
-  - [运检](../TypicalScenario/README.md#运检)
-  - [供指](../TypicalScenario/README.md#供指)
-  - [财务](../TypicalScenario/README.md#财务)
-  - [调度](../TypicalScenario/README.md#调度)
-  - [经研院](../TypicalScenario/README.md#经研院)
-  - [信通](../TypicalScenario/README.md#信通)
-  - [人资](../TypicalScenario/README.md#人资)
-  - [发展](../TypicalScenario/README.md#发展)
-  - [物资](../TypicalScenario/README.md#物资)
+- [<span class="iconfont icon-book3"></span> 学习资源](LearnSource/)
+- [<span class="iconfont icon-icon_fabu"></span> 典型场景](README.md)
+  - [营销](README?id=营销)
+  - [供电服务中心](README?id=☎️供服)
+  - [物资](README?id=🎁物资)
+  - [运检](README?id=🛂运检)
+- [<span class="iconfont icon-wodeguanzhu"></span> 常见问题](question/)
+- [<span class="iconfont icon-book"></span> 进阶学习](LearnPlus/)
+
+
+
+
+
+
