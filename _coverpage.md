@@ -1,4 +1,4 @@
-![icon](./images/机器人思考.jpg)
+<img src="./images/机器人思考.jpg" alt="icon" height="70%" />
 
 ## 中博新创
 
