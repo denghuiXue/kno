@@ -4,7 +4,7 @@
         <div class="course-header">
              <span class="icon">📺</span>
             <h2>RPA设计器教程</h2>
-            <a href="https://space.bilibili.com/1551547224/channel/series" class="btn-watch">
+            <a href="https://space.bilibili.com/1551547224/channel/series" class="btn-watch" style="color: white;">
                 观看视频教程
                 <span class="arrow">→</span>
             </a>
@@ -34,7 +34,7 @@
                 <span class="badge">经典</span>
                 <h4 style="color: white;">3.0 版本系列</h4>
                 <p>完整学习路径：</p>
-                <ul>
+                <ul style="list-style-type: none; padding-left: 0;">
                     <li><span class="step-icon">1️⃣</span> 入门基础教程</li>
                     <li><span class="step-icon">2️⃣</span> 基本功能实践</li>
                     <li><span class="step-icon">3️⃣</span> 实战案例演示</li>
