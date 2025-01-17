@@ -1,4 +1,4 @@
-<img src="./images/机器人思考.jpg" alt="icon" height="60%" />
+<img src="./images/机器人思考.jpg" alt="icon" height="50%" />
 
 ## 中博新创
 
